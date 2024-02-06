@@ -14,3 +14,7 @@ https://huggingface.co/spaces/bestekucuk/text_classfication
 https://huggingface.co/datasets/valurank/News_Articles_Categorization
 
 3722 News Articles classified into different categories namely: World, Politics, Tech, Entertainment, Sport, Business, Health, and Science.The dataset consists of two columns namely Text and Category. The Text column consists of the news article and the Category column consists of the class each article belongs to
+
+## Layers
+
+![image](https://github.com/bestekucuk/Text-Classification-with-Feedforward-Neural-Networks/assets/73111871/94372364-ebde-464d-ae2f-514c2566ec19)
