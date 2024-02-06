@@ -1,8 +1,7 @@
-##INTRODUCTION
+## Introduction
+---
+Text classification plays a crucial role in Natural Language Processing (NLP), finding applications in sentiment analysis, news categorization, and automated customer review analysis. This study focuses on developing a text classification model using deep learning techniques, specifically Feed-Forward Neural Networks (FFNN), on a substantial dataset comprising 871,909 articles. The primary goal is to categorize texts into 26 distinct categories. The proposed model is intended for integration into a mobile application, targeting a success rate of 61%. The outcomes of this research showcase the effectiveness of text classification on large datasets and demonstrate practical applications in real-world scenarios.
 
-Text classification holds great importance, especially in Natural Language Processing (NLP). Deep learning models like FFNN can be applied in various domains, including sentiment analysis, news article classification, and automated analysis of customer reviews.
-This study aims to develop a text classification model using deep learning techniques on a large text dataset. The research, conducted using a total of 871,909 article data, specifically focuses on categorizing texts into 26 different categories, with an emphasis on feed-forward networks. The developed model aims to be delivered to users through a mobile application, achieving a success rate of 61%. The findings of this study serve as a significant example of text classification applications on extensive datasets.
+---
 
-
-
-https://huggingface.co/spaces/bestekucuk/text_classfication
+*Note: You can copy and paste this formatted text into your GitHub README file.*
