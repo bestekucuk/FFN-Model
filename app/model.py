@@ -4,12 +4,6 @@ import pandas as pd
 import numpy as np
 import tensorflow as tf
 
-
-
-
-
-
-
 stop_words = {
     'a', 'about', 'above', 'after', 'again', 'against', 'ain', 'all', 'am', 'an', 'and', 'any', 'are', 'aren',
     "aren't", 'as', 'at', 'be', 'because', 'been', 'before', 'being', 'below', 'between', 'both', 'but', 'by',
